@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    z-index: 10;
+}
+.header h1{
+    padding: 1rem;
+    color: aliceblue;
+}
